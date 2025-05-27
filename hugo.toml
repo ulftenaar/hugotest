@@ -1,7 +1,7 @@
 baseURL = 'https://hkustudentunion.nl/'
 languageCode = 'en-uk'
 title = 'My New Hugo Site'
-theme = 'ananke'
+theme = ''
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
