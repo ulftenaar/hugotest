@@ -2,3 +2,6 @@ baseURL = 'https://hkustudentunion.nl/'
 languageCode = 'en-uk'
 title = 'My New Hugo Site'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
