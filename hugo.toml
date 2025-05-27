@@ -1,0 +1,4 @@
+baseURL = 'https://hkustudentunion.nl/'
+languageCode = 'en-uk'
+title = 'My New Hugo Site'
+theme = 'ananke'
